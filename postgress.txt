@@ -1,0 +1,11 @@
+postgres://
+
+ryihmpxwcihpni
+:
+c05f493ffedb73c5e0b702ebd928cd6f05cddf13c674fff273f89f537b586fd5
+@
+ec2-52-70-186-184.compute-1.amazonaws.com
+:
+5432
+/
+dc7hhn65a422ha
